@@ -1,14 +1,20 @@
-# SQL & Python Data Analysis Project
+# SQL & Python Data Analysis
 
-This project combines:
-- SQL
+This project demonstrates:
+- SQL querying
+- INNER JOIN operations
+- GROUP BY analysis
+- Data analysis with pandas
+- Data visualization with matplotlib
+
+## Technologies
 - Python
 - pandas
+- SQLite
 - matplotlib
 
-Tasks performed:
-- SQL queries
-- INNER JOIN
-- GROUP BY
-- Data visualization
-- Average salary analysis by department
+## Files
+- employees.csv
+- company.db
+- queries.sql
+- lesson_sql_python.py
